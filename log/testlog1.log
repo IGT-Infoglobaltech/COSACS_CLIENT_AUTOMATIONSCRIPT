@@ -1,0 +1,18 @@
+
+2020-01-30 21:35:10,628 [main] INFO cosac - User Clicked on Create
+2020-01-30 21:35:15,102 [main] INFO cosac - User Clicked on Location
+2020-01-30 21:35:15,881 [main] INFO cosac - User are in Create Location Page
+2020-01-31 15:23:36,180 [main] INFO cosac - User Clicked on Merchandising
+2020-01-31 15:23:36,470 [main] INFO cosac - User Clicked on Create
+2020-01-31 15:23:40,881 [main] INFO cosac - User Clicked on Location
+2020-01-31 15:23:41,680 [main] INFO cosac - User are in Create Location Page
+2020-02-07 15:45:29,176 [main] INFO cosac - User are in Create Location Page
+2020-02-07 15:45:30,107 [main] INFO cosac - User are able to Create Location
+2020-02-07 15:58:54,548 [main] INFO cosac - User are in Create Location Page
+2020-02-07 15:58:55,490 [main] INFO cosac - User are able to Create Location
+2020-02-07 16:01:48,982 [TestNG-tests-1] INFO cosac - User are in Create Location Page
+2020-02-07 16:01:49,993 [TestNG-tests-1] INFO cosac - User are able to Create Location
+2020-02-07 16:09:53,262 [TestNG-tests-1] INFO cosac - User are in Create Location Page
+2020-02-07 16:09:54,343 [TestNG-tests-1] INFO cosac - User are able to Create Location
+2020-02-07 22:05:00,317 [TestNG-tests-1] INFO cosac - User are in Create Location Page
+2020-02-07 22:05:01,507 [TestNG-tests-1] INFO cosac - User are able to Create Location

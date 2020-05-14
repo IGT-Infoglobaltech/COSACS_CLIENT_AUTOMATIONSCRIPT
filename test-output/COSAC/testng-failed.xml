@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [COSAC]" parallel="tests">
+  <test thread-count="5" name="cosacProject IE Test (failed)" parallel="tests">
+    <parameter name="browser" value="ie"/>
+    <classes>
+      <class name="com.cosac.TestCases.COS01_LocationCreation">
+        <methods>
+          <include name="location"/>
+          <include name="launchChrome"/>
+          <include name="close"/>
+          <include name="createLocationForm"/>
+        </methods>
+      </class> <!-- com.cosac.TestCases.COS01_LocationCreation -->
+    </classes>
+  </test> <!-- cosacProject IE Test (failed) -->
+</suite> <!-- Failed suite [COSAC] -->

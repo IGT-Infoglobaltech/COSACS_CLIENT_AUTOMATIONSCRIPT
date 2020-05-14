@@ -1,0 +1,30 @@
+
+
+
+{
+	"CashAndGo": 
+	{
+		"NewCustomerCASHAccount": 
+		{
+			
+			"PersonalID": "TO01066A",
+            "DOB": "1967",
+            "FirstName": "Jane",
+            "LastName": "Doe",
+            "Address1": "10446 Jefferson Blvd, Suite 200",
+            "Address2": "Culver",
+            "Address3": "JM",
+            "PostalCode": "90232",
+            "Phone": "5642223467",
+            "Email": "janedoe@magento.com",
+            "productCode": "MHT434",
+            "productQuantity": "1",
+            "DeliveryInstructions": "Before delivery make a call",
+            "DeliveryDay": "27",
+            "TenderedAmount": "9999"
+			
+			
+		}
+		
+	}
+}

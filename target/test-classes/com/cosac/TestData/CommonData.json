@@ -1,0 +1,55 @@
+
+
+
+{
+	"COS27": 
+	{
+		"CashAndLoan": 
+		{
+			
+			
+			"PersonalID"		         :"6345239991",
+			"DOB"		                 :"1989",
+			"FirstName"		             :"Mary",
+			"LastName"		             :"Amelia",
+			"Address1"		             :"street1",
+			"Address2"		             :"street2",
+			"Address3"		             :"JM",				
+			"PostalCode"		         :"12345",
+			"Phone"		                 :"123456789",
+			"Email"                      :"ma@gmail.com",
+			"productCode"	             :"ORWE58",
+			"productQuantity"	         :"1",
+			"DeliveryDay"	             :"08",
+			"TenderedAmount"	         :"2300"
+			
+			
+		}
+		
+	},
+	"COS21": 
+	{
+		"CashAndLoan": 
+		{
+			
+			
+			"PersonalID"		         :"6345239",
+			"DOB"		                 :"1989",
+			"FirstName"		             :"Mary",
+			"LastName"		             :"Amelia",
+			"Address1"		             :"street1",
+			"Address2"		             :"street2",
+			"Address3"		             :"JM",				
+			"PostalCode"		         :"12345",
+			"Phone"		                 :"123456789",
+			"Email"                      :"ma@gmail.com",
+			"productCode"	             :"ORWE58",
+			"productQuantity"	         :"1",
+			"DeliveryDay"	             :"08",
+			"TenderedAmount"	         :"2300"
+			
+			
+		}
+		
+	}
+}

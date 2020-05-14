@@ -1,0 +1,51 @@
+
+
+
+{
+	"Orders Data": 
+	[
+		 
+		{
+			
+			"PersonalID"		         :"Tu01018J",
+			"DOB"		                 :"1989",
+			"FirstName"		             :"Tom",
+			"LastName"		             :"One",
+			"Address1"		             :"street1",
+			"Address2"		             :"street2",
+			"Address3"		             :"JM",
+			"PostalCode"		         :"12345",
+			"Phone"		                 :"27689",
+			"Email"                      :"abc@gmail.com",
+			"productCode"	             :"225034",
+			"productQuantity"	         :"1",
+			"DeliveryInstructions"	     :"Product is ready",
+			"DeliveryDay"	             :"30",
+			"TenderedAmount"	         :"10000"
+			
+			
+		},
+		
+		{
+			
+			"PersonalID"		         :"Tv01018J",
+			"DOB"		                 :"1989",
+			"FirstName"		             :"John",
+			"LastName"		             :"Wick",
+			"Address1"		             :"street1",
+			"Address2"		             :"street2",
+			"Address3"		             :"JM",
+			"PostalCode"		         :"12345",
+			"Phone"		                 :"27689",
+			"Email"                      :"abc@hotmail.com",
+			"productCode"	             :"225034",
+			"productQuantity"	         :"1",
+			"DeliveryInstructions"	     :"Product is ready",
+			"DeliveryDay"	             :"30",
+			"TenderedAmount"	         :"7000"
+			
+			
+		}
+		
+	]
+}

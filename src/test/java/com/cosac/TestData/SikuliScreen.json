@@ -1,0 +1,155 @@
+
+{
+	"CashAndGoScreensPath":
+	{
+		"NewCustCASHAccount": 
+		{
+			"Customer"		            :".\\target\\Customer.png",
+			"CustomerSearch"		    :".\\target\\CustomerSearch.png",
+			"CustomerID"		        :".\\target\\CUstomerID.png",
+			"LinkingAccount"		    :".\\target\\LinkingAccount.png",
+			"AddressAdd"		        :".\\target\\AddressAdd.png",
+			"CreateCASHAccount"		    :".\\target\\CreateCASHAccount.png",
+			"AddProductIcon"            :".\\target\\AddProductIcon.png",
+			"SaveIcon"                  :".\\target\\SaveIcon.png",
+			"AccountNoBar"              :".\\target\\AccountNoBar.png",
+			"CloseTab"                  :".\\target\\CloseTab.png",
+			"Transaction"               :".\\target\\Transaction.png",
+			"PaymentCustID"             :".\\target\\PaymentCustID.png",
+			"PaymentAmmount"            :".\\target\\PaymentAmmount.png",
+			"PayButton"                 :".\\target\\PayButton.png",
+			"CloseClient"               :".\\target\\CloseClient.png"
+			
+			
+			
+			
+		}
+	
+	},
+	"ReadyFinScreensPath":
+	{
+	"NewCustReadyFinance": 
+		{
+			"Customer"		            :".\\target\\Customer.png",
+			"CustomerSearch"		    :".\\target\\CustomerSearch.png",
+			"CustomerID"		        :".\\target\\CUstomerID.png",
+			"LinkingAccount"		    :".\\target\\LinkingAccount.png",
+			"AddressAdd"		        :".\\target\\AddressAdd.png",
+			"CreateReadyFinance"		:".\\target\\COS25-ReadyFinance\\ReadyFinance.png",
+			"ResidentialButton"         :".\\target\\COS25-ReadyFinance\\ResidencialButton.png",
+			"CurrentResidentialStatus"  :".\\target\\COS25-ReadyFinance\\Current ResidentialStatus.png",
+			"Employment"                :".\\target\\COS25-ReadyFinance\\Employment.png",
+			"EmployeeStatus"            :".\\target\\COS25-ReadyFinance\\EmployeeStatus.png",
+			"Finnancial"                :".\\target\\COS25-ReadyFinance\\FInnancial.png",
+			"Category"                  :".\\target\\COS25-ReadyFinance\\Category.png",
+			"ProductCategory"           :".\\target\\COS25-ReadyFinance\\ProductCategory1",
+			"GreenButton"               :".\\target\\COS25-ReadyFinance\\GreenButton.png",
+			"S2"                        :".\\target\\COS25-ReadyFinance\\S2.png",
+			"EmployerDetals"            :".\\target\\COS25-ReadyFinance\\EmployerDetails.png",
+			"References"                :".\\target\\COS25-ReadyFinance\\References.png",
+			"Reference2"                :".\\target\\COS25-ReadyFinance\\Reference2.png",
+			"Comments"                  :".\\target\\COS25-ReadyFinance\\Comments.png",
+			"DD"                        :".\\target\\COS25-ReadyFinance\\DD.png",
+			"UW"                        :".\\target\\COS25-ReadyFinance\\UW.png",
+			"Approve"                   :".\\target\\COS25-ReadyFinance\\Approve.png",
+   			"AddProductIcon"            :".\\target\\AddProductIcon.png",
+			"SaveIcon"                  :".\\target\\SaveIcon.png",
+			"AccountNoBar"              :".\\target\\AccountNoBar.png",
+			"CloseTab"                  :".\\target\\CloseTab.png",
+			"Transaction"               :".\\target\\Transaction.png",
+			"PaymentCustID"             :".\\target\\PaymentCustID.png",
+			"PaymentAmmount"            :".\\target\\PaymentAmmount.png",
+			"PayButton"                 :".\\target\\PayButton.png",
+			"CloseClient"               :".\\target\\CloseClient.png"
+
+			
+		}
+		},
+	
+	"CashAndGoScreens":
+	{
+		"CustomerPickUp": 
+		{
+			"Customer"		            :".\\target\\Customer.png",
+			"CustomerSearch"		    :".\\target\\CustomerSearch.png",
+			"CustomerID"		        :".\\target\\CUstomerID.png",
+			"LinkingAccount"		    :".\\target\\LinkingAccount.png",
+			"AddressAdd"		        :".\\target\\AddressAdd.png",
+			"CreateCASHAccount"		    :".\\target\\CreateCASHAccount.png",
+			"AddProductIcon"            :".\\target\\AddProductIcon.png",
+			"SaveIcon"                  :".\\target\\SaveIcon.png",
+			"AccountNoBar"              :".\\target\\AccountNoBar.png",
+			"CloseTab"                  :".\\target\\CloseTab.png",
+			"Transaction"               :".\\target\\Transaction.png",
+			"PaymentCustID"             :".\\target\\PaymentCustID.png",
+			"PaymentAmmount"            :".\\target\\PaymentAmmount.png",
+			"PayButton"                 :".\\target\\PayButton.png",
+			"CloseClient"               :".\\target\\CloseClient.png",
+			"Immediate"                 :".\\target\\CustPickup\\ImmediateDelivery.png",
+			"expressDelivery"           :".\\target\\CustPickup\\ExpressDelivery.png"
+			
+			
+			
+			
+		}
+	
+	},
+	"cos27":
+	{
+		"CashAndLoan": 
+		{
+			"Customer"		            :".\\target\\COS27_CashAndLoan\\Customer.png",
+			"CustomerSearch"		    :".\\target\\COS27_CashAndLoan\\CustomerSearch.png",
+			"CustomerID"		        :".\\target\\COS27_CashAndLoan\\CUstomerID.png",
+			"LinkingAccount"		    :".\\target\\COS27_CashAndLoan\\LinkingAccount.png",
+			"AddressAdd"		        :".\\target\\COS27_CashAndLoan\\AddressAdd.png",
+			"CreateReadyFinance"		:".\\target\\COS27_CashAndLoan\\ReadyFinance.png",
+			"ResidentialButton"         :".\\target\\COS27_CashAndLoan\\ResidencialButton.png",
+			"CurrentResidentialStatus"  :".\\target\\COS27_CashAndLoan\\Current ResidentialStatus.png",
+			"Employment"                :".\\target\\COS27_CashAndLoan\\Employment.png",
+			"EmployeeStatus"            :".\\target\\COS27_CashAndLoan\\EmployeeStatus.png",
+			"Finnancial"                :".\\target\\COS27_CashAndLoan\\FInnancial.png",
+			"Category"                  :".\\target\\COS27_CashAndLoan\\Category.png",
+			"ProductCategory"           :".\\target\\COS27_CashAndLoan\\ProductCategory1",
+			"GreenButton"               :".\\target\\COS27_CashAndLoan\\GreenButton.png",
+			"S2"                        :".\\target\\COS27_CashAndLoan\\S2.png",
+			"EmployerDetals"            :".\\target\\COS27_CashAndLoan\\EmployerDetails.png",
+			"References"                :".\\target\\COS27_CashAndLoan\\References.png",
+			"Reference2"                :".\\target\\COS27_CashAndLoan\\Reference2.png",
+			"Comments"                  :".\\target\\COS27_CashAndLoan\\Comments.png",
+			"DD"                        :".\\target\\COS27_CashAndLoan\\DD.png",
+			"UW"                        :".\\target\\COS27_CashAndLoan\\UW.png",
+			"Approve"                   :".\\target\\COS27_CashAndLoan\\Approve.png",
+   			"AddProductIcon"            :".\\target\\COS27_CashAndLoan\\AddProductIcon.png",
+			"SaveIcon"                  :".\\target\\COS27_CashAndLoan\\SaveIcon.png",
+			"AccountNoBar"              :".\\target\\COS27_CashAndLoan\\AccountNoBar.png",
+			"CloseTab"                  :".\\target\\COS27_CashAndLoan\\CloseTab.png",
+			"Transaction"               :".\\target\\COS27_CashAndLoan\\Transaction.png",
+			"PaymentCustID"             :".\\target\\COS27_CashAndLoan\\PaymentCustID.png",
+			"PaymentAmmount"            :".\\target\\COS27_CashAndLoan\\PaymentAmmount.png",
+			"PayButton"                 :".\\target\\COS27_CashAndLoan\\PayButton.png",
+			"CloseClient"               :".\\target\\COS27_CashAndLoan\\CloseClient.png"
+			
+			
+		}
+	
+	},
+	"SystemConfig":
+	{
+		"CustomizeMandField": 
+		{
+			"CustomMandField"		    :".\\target\\CustMandatoryField\\CustomizeMandatoryFIeld.jpeg",
+			"Enable"		            :".\\target\\CustMandatoryField\\Enable.png",
+			"Visible"		            :".\\target\\CustMandatoryField\\Visible.png",
+			"SaveIcon"		            :".\\target\\CustMandatoryField\\SaveIcon.png",
+			"selectEnable"		        :".\\target\\CustMandatoryField\\selectEnable.png",
+			"selectVisible"		        :".\\target\\CustMandatoryField\\selectVisible.png",
+			"CloseApp"		            :".\\target\\CustMandatoryField\\CloseApp.png"
+			
+			
+		}
+	
+	
+	
+}
+}

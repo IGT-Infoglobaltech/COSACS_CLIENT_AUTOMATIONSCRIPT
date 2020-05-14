@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [COSAC_CLIENT]">
+  <test thread-count="5" name="cosacProject Chrome Test1(failed)">
+    <classes>
+      <class name="com.cosac.TestCases.COS24_NewCustomer3">
+        <methods>
+          <include name="Client"/>
+        </methods>
+      </class> <!-- com.cosac.TestCases.COS24_NewCustomer3 -->
+    </classes>
+  </test> <!-- cosacProject Chrome Test1(failed) -->
+</suite> <!-- Failed suite [COSAC_CLIENT] -->

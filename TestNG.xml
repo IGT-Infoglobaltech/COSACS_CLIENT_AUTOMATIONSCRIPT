@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="COSAC_CLIENT">
+
+ <test name="cosacProject Chrome Test" enabled="false">
+    <classes>
+      <class name="com.cosac.TestCases.COS21_CustomerPickUp" />
+      </classes>
+  </test>
+  
+  <test name="cosacProject Chrome Test1" enabled="false">
+    <classes>
+      <class name="com.cosac.TestCases.CustomerSearch" />
+      </classes>
+  </test>
+  
+   <test name="cosacProject Chrome Test1" enabled="true">
+    <classes>
+      <class name="com.cosac.TestCases.COS24_NewCustomer3" />
+      </classes>
+  </test>
+  
+  <test name="COS27_Customer" enabled="false">
+    <classes>
+      <class name="com.cosac.TestCases.COS27_Customer" />
+      </classes>
+  </test>
+  
+   <test name="COS55_CustomizeMandatoryField" enabled="false">
+    <classes>
+      <class name="com.cosac.TestCases.COS55_CustomizeMandatoryField" />
+      </classes>
+  </test>
+  
+  <test name="COS42_CallCentre" enabled="false">
+    <classes>
+      <class name="com.cosac.TestCases.COS42_CallCentre" />
+      </classes>
+  </test>
+  <test name="COS42_CallCentre" enabled="false">
+    <classes>
+      <class name="com.cosac.TestCases.COS30_CreditSactioning" />
+      </classes>
+  </test>
+</suite>						
